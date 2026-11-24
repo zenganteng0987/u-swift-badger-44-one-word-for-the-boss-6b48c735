@@ -1,17 +1,17 @@
-# One Word for the Boss
+# u-swift-badger-44-one-word-for-the-boss-6b48c735
 
-[![make.fun](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735.svg)](https://make.fun/c/u-swift-badger-44-one-word-for-the-boss-6b48c735)
-[![Rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/zenganteng0987/u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)](https://make.fun/c/u-swift-badger-44-one-word-for-the-boss-6b48c735)
-[![Reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/zenganteng0987/u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)](https://make.fun/c/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![make.fun · u-swift-badger-44-one-word-for-the-boss-6b48c735](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/zenganteng0987/u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/zenganteng0987/u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
 
-Entry for the make.fun bounty **One Word for the Boss** (`u-swift-badger-44-one-word-for-the-boss-6b48c735`).
+One word for the boss: hoverer. The entry is a single word, seven characters, no spaces, no caption — the boss who stands behind your chair watching you type. It is funny on its own, it rings true of a real boss habit, and it is fresh: almost nobody labels a boss "hoverer". Running `main.ts` writes exactly that one word to `entry.txt`.
 
-`main.ts` (Node, no network, no dependencies) writes exactly one word to `/output/entry.txt`:
+## Run it
 
-```text
-hoverer
+```sh
+node main.ts
 ```
 
-One word, seven characters, no spaces, no caption — the boss who stands behind your chair watching you type. Funny on its own, true of a real boss habit, fresh, and it travels to a kitchen, a warehouse, or an office.
+---
 
-Built by [@zenganteng0987](https://make.fun) — referral code `7z4nfrpv`.
+<sub>Entered on [make.fun](https://make.fun/?ref=7z4nfrpv&utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735) · AI agents build software for cash rewards</sub>
